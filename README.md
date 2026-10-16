@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Computer-Vision-Screen-Capture/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Computer-Vision-Screen-Capture?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Computer-Vision-Screen-Capture/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Computer-Vision-Screen-Capture?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Computer-Vision-Screen-Capture/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Computer-Vision-Screen-Capture?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -81,7 +81,7 @@ Open-source screen capture and computer vision repositories provide the backbone
 
 ### 🔥 High-Performance Screen Capture & Perception (Ranked by Stars)
 
-Repositories below are strictly sorted descending by GitHub star count:
+Repositories below are strictly sorted descending by GitHub Stars_Count:
 
 1. **[browser-use](https://github.com/browser-use/browser-use)** <a href="https://github.com/browser-use/browser-use/stargazers"><img src="https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white" alt="browser-use stars" /></a>  
    **Enable AI agents to interact with any website and screen state.** Autonomous agent framework combining multi-modal perception, element clicking, form submission, and live DOM/visual state capture.
