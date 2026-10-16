@@ -44,63 +44,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-- **[UiPath Computer Vision](https://www.uipath.com/)**  
-
-  **Enterprise RPA platform with AI-powered computer vision** for UI element detection. Enables automation of virtual desktops, Citrix environments, and remote applications without traditional selectors.
-
-
-
-- **[Automation Anywhere](https://www.automationanywhere.com/)**  
-
-  **Cloud-native RPA platform** with **A2019** and **Automation 360**. Features **IQ Bot** for document processing and **Bot Insight** for analytics.
-
-
-
-- **[Blue Prism](https://www.blueprism.com/)**  
-
-  **Enterprise RPA platform** (SS&C) with **digital workforce** management, **process intelligence**, and **intelligent automation** capabilities.
-
-
-
-- **[Microsoft Power Automate Desktop](https://powerautomate.microsoft.com/)**  
-
-  **Free desktop automation** for Windows—**included with Windows 10/11** . Features **UI automation**, **web automation**, **Excel/Outlook integration**, and **AI Builder**.
-
-
-
-- **[Kofax RPA](https://www.kofax.com/)**  
-
-  **Enterprise RPA and cognitive automation** with **document intelligence** and **process orchestration** .
-
-
-
-- **[WorkFusion](https://www.workfusion.com/)**  
-
-  **Intelligent automation** for financial services—**AML, KYC, and customer onboarding** .
-
-
-
-- **[Nintex](https://www.nintex.com/)**  
-
-  **Process automation platform** with **workflow, forms, RPA, and document generation** .
-
-
-
-- **[Pega Robotic Automation](https://www.pega.com/)**  
-
-  **RPA integrated with Pega's decisioning and workflow platform** .
-
-
-
-- **[ABBYY Vantage](https://www.abbyy.com/)**  
-
-  **Document AI platform** with **pre-trained AI skills** for document processing and data extraction.
-
-
-
-- **[Appian RPA](https://www.appian.com/)**  
-
-  **Low-code automation with RPA capabilities** integrated into the Appian platform.
+| Product | Company Size (Valuation / Revenue) | Starting Price | Free Tier / Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Microsoft Power Automate](https://powerautomate.microsoft.com/)** | ~$4.01T Mkt Cap / $331.8B Rev | $15 / user / month (Premium); $150 / bot / month (Process) | Free forever (seeded in Windows 10/11 & M365 with standard connectors, capped at 6,000 API requests/user/day); 30-day free trial for Premium RPA | Desktop & cloud automation integrated with Windows, Office 365, UI automation, and AI Builder. |
+| **[Blue Prism](https://www.blueprism.com/)** | ~$19.5B Mkt Cap (SS&C) / $6.4B Rev | £840 (~$1,050) / worker / month; Cloud packs from £40k/yr | 30-day free trial (1 digital worker, up to 15 processes); 90–180 day Learning Edition (1 digital worker, 2 sessions, 5 processes, non-production) | Enterprise RPA platform (SS&C) with digital workforce orchestration and process intelligence. |
+| **[UiPath Computer Vision](https://www.uipath.com/)** | ~$6.8B Mkt Cap / $1.7B Rev | $25 / month (Basic tier; 1 tenant, max 2 robots) | Free forever (Community Plan: 1 tenant, 1 Pro User, 1 Plus User, 1 Unattended Robot, 1 GB Data Service storage, community support) | Enterprise RPA platform with AI-driven computer vision for Citrix, VDI, and remote desktops. |
+| **[Automation Anywhere](https://www.automationanywhere.com/)** | ~$6.8B Valuation / ~$600M+ ARR | $750 / month (Cloud Starter Pack; 1 Creator + 1 Runner) | Free forever (Community Edition: for organizations with <250 machines/users & <$5M revenue, up to 5 machines and 100 doc pages/mo); 30-day Enterprise trial | Cloud-native RPA platform (Automation 360) featuring IQ Bot and document automation. |
+| **[Pega Robotic Automation](https://www.pega.com/)** | ~$5.8B Mkt Cap / $1.7B Rev | $97 / user / month (Case/module packs from ~$200k/yr) | 30-day free trial (Community Edition cloud sandbox, extendable once by 15 days up to 45 days total; dev environment with App Studio and Dev Studio) | Enterprise RPA integrated with Pega's AI decisioning, case management, and workflow engine. |
+| **[Kofax RPA](https://www.kofax.com/)** | ~$3.0B Valuation (Clearlake/TA) / ~$450M Rev | ~$83 / user / month (Enterprise starter from ~$10,000/yr) | 15–30 day trial for desktop/Transact products; guided enterprise proof-of-concept (POC) sandbox available on request | Enterprise RPA and cognitive capture (Tungsten Automation) with document intelligence. |
+| **[Appian RPA](https://www.appian.com/)** | ~$2.8B Mkt Cap / ~$780M Rev | $70 / user / month (Standard tier; ~$1,000/mo flat for <20 users) | Free forever (Community Edition: 1 hosted environment, 1 Appian RPA robot, 15 GB storage, 25k synced record rows, deleted after 28 days inactivity) | Low-code automation platform integrating workflow orchestration with native RPA bots. |
+| **[Nintex](https://www.nintex.com/)** | ~$2.0B Valuation (TPG) / ~$240M Rev | $625 / month (Standard workflow automation tier) | 30-day free trial (Full-access cloud sandbox for workflow designer, forms, and connector testing) | Process automation platform encompassing visual workflow, forms, RPA bots, and DocGen. |
+| **[ABBYY Vantage](https://www.abbyy.com/)** | ~$1.0B+ Valuation (Marlin) / ~$300M+ Rev | ~$830 / month (~$10,000/yr volume-metered skill subscription) | 60-day free trial (Capped at 2,000 core skill document pages and 1,000 pages per pre-packaged trained skill) | Document AI & intelligent document processing (IDP) platform using pre-trained computer vision skills. |
+| **[WorkFusion](https://www.workfusion.com/)** | ~$350M+ Funded / ~$50M+ ARR | $150 / month (Starter AI Agent tier for 100 transactions/mo) | 30-day free trial (First month free for LT AI Agents; covers up to 100 AML/compliance transactions) | Intelligent automation powered by specialized AI Digital Workers for AML, KYC, and financial compliance. |
 
 
 
