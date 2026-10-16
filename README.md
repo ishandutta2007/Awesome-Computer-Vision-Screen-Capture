@@ -1,48 +1,64 @@
-# Awesome-Computer-Vision-Screen-Capture
+<div align="center">
 
-## Top Computer Vision & Screen Capture Ecosystem
+<img src="./assets/banner.svg" alt="Awesome Computer Vision Screen Capture Banner" width="100%" />
 
+# 👁️ Awesome Computer Vision & Screen Capture Ecosystem 🚀
 
+**A Curated Directory of SaaS Platforms & High-Performance Open-Source Projects for Screen Capture, UI Automation, and Vision-Based AI Agent Perception**
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Computer-Vision-Screen-Capture/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Computer-Vision-Screen-Capture?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Computer-Vision-Screen-Capture/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Computer-Vision-Screen-Capture?style=social" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-*Focused on Screen Capture, UI Automation & Vision-Based Agent Perception*  
+**Last updated: October 2026** 📅
 
-**Last updated: October 2026**
+</div>
 
+---
 
+## 📖 Table of Contents
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Computer Vision & Screen Capture**. These tools enable automation platforms and AI agents to perceive screen state, identify UI elements, and execute actions—from high-performance capture libraries to vision-based RPA engines.
+- [🌟 Introduction & Vision](#-introduction--vision)
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS & Hosted Platforms](#-saas--hosted-platforms)
+- [⚡ Open-Source GitHub Projects](#-open-source-github-projects)
+  - [🔥 High-Performance Screen Capture & Perception (Ranked by Stars)](#-high-performance-screen-capture--perception-ranked-by-stars)
+  - [🛠️ Emerging & Specialized Libraries](#️-emerging--specialized-libraries)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [📈 Star History](#-star-history)
+- [⚖️ Disclaimer](#️-disclaimer)
 
+---
 
+## 🌟 Introduction & Vision
 
-**Examples** include UiPath Computer Vision, Automation Anywhere, Blue Prism, WorkFusion, Kofax RPA, Microsoft Power Automate Desktop, Nintex, Pega Robotic Automation, ABBYY Vantage, and Appian RPA (the category leaders).
+This repository tracks notable **enterprise SaaS platforms** and **open-source libraries** for **Computer Vision & Screen Capture**. These technologies enable modern intelligent automation frameworks and autonomous AI agents (such as Computer-Use Agents, Vision-Language Models, and autonomous RPA bots) to perceive live desktop and application states, identify UI elements, parse spatial geometries, and perform precision actions without relying on fragile DOM or accessibility selectors.
 
+Key use-cases include:
+- ⚡ **High-FPS Screen Capture**: Sub-millisecond DirectX (DXGI Desktop Duplication) & WinRT capture pipelines powering real-time streaming and model inference.
+- 🤖 **Agentic UI Perception & Grounding**: Visual grounding, bounding box detection, and action parsing for multi-modal agents (VLM / OS-World).
+- 🏢 **Enterprise Intelligent Automation**: Mission-critical document processing, Citrix/VDI remote automation, and end-to-end workflow orchestration.
 
+---
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, high-FPS screen capture, and vision-based UI automation—ideal for RPA developers, AI agent engineers, and organizations seeking transparent, vendor-independent automation infrastructure.
+## 📊 Sector Overview & Market Dynamics
 
+The global **Computer Vision market** is valued between **$23B and $32B** (expanding at an aggressive **14.8% to 20.1% CAGR**), while the specialized **Screen Capture & Screen Recording Software sector** accounts for **$2.1B to $3.2B** (growing at an **8% to 11% CAGR**). 
 
+The sector displays a **bimodal, vertically polarized market structure**:
+1. **Core Infrastructure & Cloud Vision (Highly Concentrated)**: Foundational vision hardware (GPUs, edge chips) and hyperscaler cloud vision APIs (Microsoft Azure AI, Google Cloud Vision, AWS Rekognition) are concentrated among a few dominant industry leaders.
+2. **Applications, Screen Utilities & Agentic Tooling (Intensely Fragmented)**: The software layer—encompassing screen capture libraries, visual UI automation frameworks, and agent perception wrappers—is **highly fragmented** with continuous influx from open-source innovators and specialized AI startups challenging legacy RPA vendors.
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+---
 
+## 🏢 SaaS & Hosted Platforms
 
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
+The table below catalogs enterprise SaaS and hosted automation suites equipped with computer vision and desktop perception. Entries are sorted descending by **Company Size (Valuation / Revenue)**:
 
 | Product | Company Size (Valuation / Revenue) | Starting Price | Free Tier / Trial Limits | Description |
 | :--- | :--- | :--- | :--- | :--- |
@@ -57,126 +73,112 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[ABBYY Vantage](https://www.abbyy.com/)** | ~$1.0B+ Valuation (Marlin) / ~$300M+ Rev | ~$830 / month (~$10,000/yr volume-metered skill subscription) | 60-day free trial (Capped at 2,000 core skill document pages and 1,000 pages per pre-packaged trained skill) | Document AI & intelligent document processing (IDP) platform using pre-trained computer vision skills. |
 | **[WorkFusion](https://www.workfusion.com/)** | ~$350M+ Funded / ~$50M+ ARR | $150 / month (Starter AI Agent tier for 100 transactions/mo) | 30-day free trial (First month free for LT AI Agents; covers up to 100 AML/compliance transactions) | Intelligent automation powered by specialized AI Digital Workers for AML, KYC, and financial compliance. |
 
+---
 
+## ⚡ Open-Source GitHub Projects
 
-## Open-Source GitHub Projects
+Open-source screen capture and computer vision repositories provide the backbone for autonomous agents, high-FPS game streamers, and privacy-conscious on-premise automation.
 
+### 🔥 High-Performance Screen Capture & Perception (Ranked by Stars)
 
+Repositories below are strictly sorted descending by GitHub star count:
 
-- **[DXcam](https://github.com/ra1nty/DXcam)**  
+1. **[browser-use](https://github.com/browser-use/browser-use)** <a href="https://github.com/browser-use/browser-use/stargazers"><img src="https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white" alt="browser-use stars" /></a>  
+   **Enable AI agents to interact with any website and screen state.** Autonomous agent framework combining multi-modal perception, element clicking, form submission, and live DOM/visual state capture.
 
-  **A Python high-performance screen capture library for Windows using Desktop Duplication API** (MIT) . **The most important open-source screen capture library for computer-use agents**—**802 GitHub stars** and actively maintained through 2026  . **Capable of 240Hz+ capturing**—**benchmarked at 239.19 average FPS vs. python-mss at 75.87 and D3DShot at 118.36**  . **Captures Direct3D exclusive full-screen applications without interrupting, even during alt+tab**  . **Dual backends**: **dxgi** (default Desktop Duplication) and **winrt** (Windows Graphics Capture)—use **dxgi for most workloads, winrt if cursor rendering is needed**  . **Automatic handling of scaled/stretched resolution**  . **Seamless integration with NumPy, OpenCV, and PyTorch**  . **`grab()` returns a numpy array**; **`copy=False` or `camera.grab_view()` for zero-copy views**  . **Screen capture mode** spins up a thread that polls newly rendered frames into an **in-memory ring buffer** with **`get_latest_frame()` blocking until new frame available**  . **Target FPS pacing** via **Windows high-resolution timer** (±1ms accuracy vs. Python's 16ms)  . **`video_mode=True`** fills buffer at target FPS using last frame when no new frame rendered  . **The reference implementation for agent screen perception** .
+2. **[PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** <a href="https://github.com/PaddlePaddle/PaddleOCR/stargazers"><img src="https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=social&color=white" alt="PaddleOCR stars" /></a>  
+   **Awesome multilingual OCR toolkits based on PaddlePaddle.** High-efficiency text detection and recognition engine widely used for screen text parsing and document understanding in vision RPA stacks.
 
+3. **[OpenCV](https://github.com/opencv/opencv)** <a href="https://github.com/opencv/opencv/stargazers"><img src="https://img.shields.io/github/stars/opencv/opencv?style=social&color=white" alt="OpenCV stars" /></a>  
+   **Open Source Computer Vision Library.** The universal standard for image processing, template matching, edge detection, and real-time visual analysis across desktop automation tools.
 
+4. **[obs-studio](https://github.com/obsproject/obs-studio)** <a href="https://github.com/obsproject/obs-studio/stargazers"><img src="https://img.shields.io/github/stars/obsproject/obs-studio?style=social&color=white" alt="OBS Studio stars" /></a>  
+   **Free and open-source software for video recording and live streaming.** The reference C/C++ architecture for high-performance desktop, display, and window capture using Direct3D and OpenGL graphics hooks.
 
-- **[RapidShot](https://pypi.org/project/rapidshot/)**  
+5. **[tesseract](https://github.com/tesseract-ocr/tesseract)** <a href="https://github.com/tesseract-ocr/tesseract/stargazers"><img src="https://img.shields.io/github/stars/tesseract-ocr/tesseract?style=social&color=white" alt="Tesseract stars" /></a>  
+   **Tesseract Open Source OCR Engine.** The foundational neural-net based optical character recognition engine utilized for extracting text from screen grabs and UI captures.
 
-  **The DXcam successor with rewritten capture path, colour pipeline, and GPU interop** (open-source)  . **Benchmarked at 80.3 frames/s vs. DXcam's 68.1** in a YOLO11n inference pipeline—**up to 20% more frames, pixels up to 9% younger, and up to a third less CPU per frame**  . **GPU-resident frames**—skips the CPU round-trip entirely for consumers that feed a model  . **Colour conversion is essentially free** with the optional native extension: **BGRA→RGB in 0.31 ms and BGRA→GRAY in 0.26 ms per 1080p frame**  . **`timeout_ms` is the key differentiator**: default **10ms waits for compositor to present** (15.7% CPU), vs. **0ms polling** (68.6% CPU, only 2.4% hit rate vs. 100% at 10ms)  . **The most efficient open-source screen capture for ML pipelines** .
+6. **[ShareX](https://github.com/ShareX/ShareX)** <a href="https://github.com/ShareX/ShareX/stargazers"><img src="https://img.shields.io/github/stars/ShareX/ShareX?style=social&color=white" alt="ShareX stars" /></a>  
+   **Screen capture, file sharing and productivity tool.** Feature-packed desktop capture application supporting region grabbing, screen recording, OCR extraction, and automated post-capture workflows.
 
+7. **[flameshot](https://github.com/flameshot-org/flameshot)** <a href="https://github.com/flameshot-org/flameshot/stargazers"><img src="https://img.shields.io/github/stars/flameshot-org/flameshot?style=social&color=white" alt="Flameshot stars" /></a>  
+   **Powerful yet simple-to-use screenshot software.** Cross-platform screen capture tool with in-app annotations, CLI scripting hooks, and instant screen region parsing.
 
+8. **[EasyOCR](https://github.com/JaidedAI/EasyOCR)** <a href="https://github.com/JaidedAI/EasyOCR/stargazers"><img src="https://img.shields.io/github/stars/JaidedAI/EasyOCR?style=social&color=white" alt="EasyOCR stars" /></a>  
+   **Ready-to-use OCR with 80+ supported languages.** PyTorch-powered optical character recognition library offering straightforward text localized bounding boxes from desktop screenshots.
 
-- **[BetterCam](https://github.com/dyddnrdld/BetterCam)**  
+9. **[MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)** <a href="https://github.com/OpenBMB/MiniCPM-V/stargazers"><img src="https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=social&color=white" alt="MiniCPM-V stars" /></a>  
+   **Leading edge multimodal vision-language model (VLM).** Powers end-to-end screen understanding, visual question answering, and OCR-free UI parsing for automated agent perception.
 
-  **World's Fastest high-performance Python screen capture library for Windows using Desktop Duplication API** (open-source)  . **Born from DXCam**—focuses on **240Hz+ capturing** and **Direct3D exclusive full-screen capture**  . **Nvidia GPU variant** available for hardware-accelerated capture  . **Benchmarks**: BetterCam at **123.667 FPS** vs. DXCam at **39 FPS** in target FPS tests  . **The performance-focused DXcam fork** .
+10. **[OmniParser](https://github.com/microsoft/OmniParser)** <a href="https://github.com/microsoft/OmniParser/stargazers"><img src="https://img.shields.io/github/stars/microsoft/OmniParser?style=social&color=white" alt="OmniParser stars" /></a>  
+    **A screen parsing tool that converts UI screenshots into structured elements.** Developed by Microsoft to empower generalist vision agents by detecting interactable regions and extracting actionable UI labels.
 
+11. **[PyAutoGUI](https://github.com/asweigart/pyautogui)** <a href="https://github.com/asweigart/pyautogui/stargazers"><img src="https://img.shields.io/github/stars/asweigart/pyautogui?style=social&color=white" alt="PyAutoGUI stars" /></a>  
+    **Cross-platform GUI automation Python module for humans.** Programmatically controls keyboard and mouse with built-in screenshot pixel matching and coordinate locating capabilities.
 
+12. **[UI-TARS](https://github.com/bytedance/UI-TARS)** <a href="https://github.com/bytedance/UI-TARS/stargazers"><img src="https://img.shields.io/github/stars/bytedance/UI-TARS?style=social&color=white" alt="UI-TARS stars" /></a>  
+    **An end-to-end GUI agent model architecture.** Native vision-language model trained specifically to process GUI screen captures and output direct keyboard/mouse action sequences across OS platforms.
 
-- **[DXcamPIL](https://github.com/hite4044/DXcamPIL)**  
+13. **[python-mss](https://github.com/BoboTiG/python-mss)** <a href="https://github.com/BoboTiG/python-mss/stargazers"><img src="https://img.shields.io/github/stars/BoboTiG/python-mss?style=social&color=white" alt="python-mss stars" /></a>  
+    **Ultra-fast cross-platform multiple-screen capture module in pure Python.** Benchmarked at 75+ FPS on Windows without external third-party binary dependencies.
 
-  **DXcam with PIL support**—**only needs PIL and comtypes to run** (open-source)  . **Reduced dependency footprint**—**90+ FPS** performance vs. DXcam's full feature set  . **The lightweight DXcam variant** for environments where installing OpenCV is impractical .
+14. **[DXcam](https://github.com/ra1nty/DXcam)** <a href="https://github.com/ra1nty/DXcam/stargazers"><img src="https://img.shields.io/github/stars/ra1nty/DXcam?style=social&color=white" alt="DXcam stars" /></a>  
+    **High-performance Python screen capture library for Windows using Desktop Duplication API.** Capable of 240Hz+ capturing with DXGI and WinRT backends, ring buffers, and zero-copy NumPy array views.
 
+15. **[uDesktopDuplication](https://github.com/hecomi/uDesktopDuplication)** <a href="https://github.com/hecomi/uDesktopDuplication/stargazers"><img src="https://img.shields.io/github/stars/hecomi/uDesktopDuplication?style=social&color=white" alt="uDesktopDuplication stars" /></a>  
+    **Desktop Duplication API implementation for Unity.** High-frequency texture streaming directly from the GPU desktop compositor into interactive 3D and machine perception environments.
 
+16. **[ScreenAgent](https://github.com/niuzaisheng/ScreenAgent)** <a href="https://github.com/niuzaisheng/ScreenAgent/stargazers"><img src="https://img.shields.io/github/stars/niuzaisheng/ScreenAgent?style=social&color=white" alt="ScreenAgent stars" /></a>  
+    **Vision Language Model-driven computer control agent.** Employs a continuous loop of screen capture, visual reasoning, mouse/keyboard actuation, and self-reflection on desktop operating systems.
 
-- **[OAGI](https://pypi.org/project/oagi-core/)**  
+17. **[D3DShot](https://github.com/SerpentAI/D3DShot)** <a href="https://github.com/SerpentAI/D3DShot/stargazers"><img src="https://img.shields.io/github/stars/SerpentAI/D3DShot?style=social&color=white" alt="D3DShot stars" /></a>  
+    **Fast Windows screen capture using Desktop Duplication API.** Provides 118+ FPS capture throughput directly to Pillow, NumPy, and PyTorch tensors.
 
-  **Python SDK for OAGI API—vision-based task automation** (open-source)  . **The most complete open-source vision-based automation SDK** . **Features**: **`single_step()`** for screenshot analysis and recommended actions, **`ShortTask.auto_mode()`** for automated task execution with screenshot capture and action execution, **PyAutoGUI integration** for mouse/keyboard control, **ScreenshotMaker** for image capture, and **image compression** for token efficiency  . **Async support** for non-blocking operations  . **The reference implementation for vision-based RPA** .
+18. **[BetterCam](https://github.com/dyddnrdld/BetterCam)** <a href="https://github.com/dyddnrdld/BetterCam/stargazers"><img src="https://img.shields.io/github/stars/dyddnrdld/BetterCam?style=social&color=white" alt="BetterCam stars" /></a>  
+    **High-performance Python screen capture library.** Focused on low-latency Direct3D exclusive full-screen capture with dedicated Nvidia GPU hardware acceleration.
 
-
-
-- **[Screenwise Framework](https://pypi.org/project/t-screenwise/)**  
-
-  **Python framework for screen element detection and interaction using computer vision and machine learning** (open-source)  . **Features**: **screenshot capture and analysis**, **ML-based element detection**, **coordinate-based interaction**, **OCR capabilities**, **debug and capture modes**, and **cross-platform support**  . **Operating modes**: **CAPTURE** (live interaction with screen elements) and **DEBUG** (visualization without actual interaction)  . **OCR spatial analysis** via `get_nearest_boxes()`—find nearest elements in all directions with overlap consideration  . **The most feature-complete open-source UI element detection framework** .
-
-
-
-- **[Chivel](https://socket.dev/pypi/package/chivel/overview/0.8.1)**  
-
-  **Computer vision, OCR, and input automation toolkit** (open-source)  . **The most concise API for screen automation**—**`find_image()` for template matching**, **`find_text()` for OCR search**, **`find_any()` and **`find_all()`** for multi-term searches, **`expect_any()` and **`expect_all()`** for polling waits  . **Mouse and keyboard APIs** for interaction  . **The most accessible open-source toolkit for vision-based automation** .
-
-
-
-- **[rustcam](https://socket.dev/pypi/package/rustcam/overview/0.1.2)**  
-
-  **Rust-based screen capture** (open-source)  . **Benchmarked at 157 FPS in `flip_demo` and 146 FPS in `mover.py`** vs. DXcam at **129/125 FPS** and BetterCam at **157/146 FPS**  . **Pulls every frame Desktop Duplication hands over** (~196 FPS on a 180Hz panel)  . **The Rust-native alternative** for capture pipelines that need maximum throughput .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[python-mss](https://github.com/BoboTiG/python-mss)** — Cross-platform screenshot library (MIT) . **The standard cross-platform capture library**—**75.87 FPS on Windows vs. DXcam's 239.19**  . **Best for**: cross-platform applications where DXcam's Windows-only limitation is unacceptable .
-
-- **[D3DShot](https://github.com/SerpentAI/D3DShot)** — Windows screenshot library (MIT) . **118.36 FPS**—**the DXcam predecessor** with Desktop Duplication API  .
-
-- **[PyAutoGUI](https://github.com/asweigart/pyautogui)** — Cross-platform GUI automation (BSD-3-Clause) . **The standard for mouse/keyboard control**—**OAGI uses PyAutoGUI for action execution**  .
-
-- **[OpenCV](https://github.com/opencv/opencv)** — Computer vision library (Apache-2.0) . **The foundation for template matching and image processing** in screen automation .
-
-- **[PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** — Multilingual OCR (Apache-2.0) . **The OCR engine behind ThinkDrop Vision Service**  .
-
-- **[MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)** — Vision-language model (open-source) . **The VLM behind ThinkDrop Vision Service**  .
-
-- Community **n8n** workflows for screen capture automation and vision-based alerting.
-
-
-
-**Frameworks for building custom systems**: Combine **DXcam** or **RapidShot** for high-FPS screen capture with **Chivel** or **Screenwise** for UI element detection, **OAGI** for vision-based task automation, and **PyAutoGUI** for action execution—creating a fully open-source, computer-use agent perception stack.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Computer vision and screen capture tools must respect privacy, consent requirements, and applicable wiretapping laws. **Never capture screens without authorization** .
-
-- **Open-source screen capture is mature and production-ready.** DXcam is the most widely adopted library for agent screen perception with 802 GitHub stars and 239 FPS capture  . RapidShot improves on DXcam with GPU-resident frames and efficient `timeout_ms` pacing  . **These are genuine alternatives to commercial screen capture** .
-
-- **DXcam vs. RapidShot: the trade-off is frames vs. CPU.** DXcam polling (`AcquireNextFrame(0)`) reaches **134 FPS at 66% CPU** . RapidShot's default **10ms timeout waits for compositor to present**—**118.9 FPS at 15.7% CPU**  . **The frame rate barely moves; the CPU moves by more than four times** . **Use RapidShot if capture is one stage of a pipeline that needs its cores** .
-
-- **Capture library choice depends on your stack.** DXcam for **maximum compatibility and broad adoption** . RapidShot for **GPU-resident frames and efficient CPU usage** . BetterCam for **Nvidia GPU acceleration** . DXcamPIL for **minimal dependencies** . rustcam for **Rust-native pipelines**  .
-
-- **Vision-based automation is the emerging category.** OAGI provides **single-step analysis** and **automated task execution** via screenshot capture and PyAutoGUI  . Screenwise provides **ML-based element detection** with OCR spatial analysis  . Chivel provides **the most concise API** for template matching and OCR search  . **These tools enable AI agents to perceive and act on any UI** .
-
-- Self-hosted open-source solutions require proper GPU provisioning for VLMs, screen capture permissions, and ongoing maintenance. **Screen capture is privacy-sensitive**—implement appropriate access controls and audit logging .
-
-
+19. **[DXcamPIL](https://github.com/hite4044/DXcamPIL)** <a href="https://github.com/hite4044/DXcamPIL/stargazers"><img src="https://img.shields.io/github/stars/hite4044/DXcamPIL?style=social&color=white" alt="DXcamPIL stars" /></a>  
+    **Lightweight DXcam fork with Pillow support.** Requires only PIL and comtypes, delivering 90+ FPS capture without heavyweight OpenCV binaries.
 
 ---
 
+### 🛠️ Emerging & Specialized Libraries
 
+- **[RapidShot](https://pypi.org/project/rapidshot/)** — DXcam successor with GPU-resident frames, sub-millisecond BGRA→RGB color conversion, and intelligent `timeout_ms` compositor pacing (118+ FPS at just 15.7% CPU).
+- **[OAGI (Open Agent GUI Interface)](https://pypi.org/project/oagi-core/)** — Vision-based task automation SDK featuring `single_step()` screenshot analysis, token-optimized image compression, and PyAutoGUI control.
+- **[Screenwise Framework](https://pypi.org/project/t-screenwise/)** — UI element detection framework featuring OCR spatial analysis (`get_nearest_boxes()`) and live interactive capture modes.
+- **[Chivel](https://socket.dev/pypi/package/chivel/overview/0.8.1)** — Ultra-concise computer vision and OCR toolkit featuring `find_image()`, `find_text()`, and asynchronous condition polling.
+- **[rustcam](https://socket.dev/pypi/package/rustcam/overview/0.1.2)** — Rust-native desktop capture engine clocking 157+ FPS for maximum throughput and memory safety.
 
-**Made for RPA developers, AI agent engineers, and organizations building transparent automation solutions.**  
+---
 
-Let's make Computer Vision & Screen Capture more open, data-driven, and agent-native.
+## 🤝 How to Contribute
+
+Contributions are welcome to keep this directory comprehensive and up to date! 🚀
+
+1. 🍴 Fork the repository.
+2. 📝 Add or update entries in `README.md` (keep descriptions concise, factual, and formatted according to existing tables/lists).
+3. 🔗 Verify that all URLs, links, and pricing details are accurate and functional.
+4. 📬 Submit a Pull Request detailing your changes.
+
+---
+
+## 💖 Support
+
+If you find this ecosystem directory helpful for your research, agents, or automation pipelines:
+- ⭐ **Star this repository** to show your support and help others discover it!
+- 🍴 **Fork and share** it with your developer community.
+- ☕ **Sponsor the maintainer**: Support ongoing curation and open-source contributions by [buying a coffee on the Sponsor Dashboard](https://github.com/sponsors/ishandutta2007)! 🚀
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.com/#ishandutta2007/Awesome-Computer-Vision-Screen-Capture&Date)](https://star-history.com/#ishandutta2007/Awesome-Computer-Vision-Screen-Capture&Date)
+
+---
+
+## ⚖️ Disclaimer
+
+- This is a community-curated collection intended for educational, research, and technical evaluation purposes.
+- Screen capture and computer vision technologies can capture sensitive data. Ensure you maintain compliance with privacy laws, workplace data governance policies, and explicit user consent before deploying capture agents.
